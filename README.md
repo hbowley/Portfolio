@@ -1,6 +1,6 @@
 # Hannah Bowley Portfolio
 
-Personal portfolio site built with Hugo.
+Personal portfolio site: hbowley.github.io/Portfolio/ 
 
 ## Edit content
 
