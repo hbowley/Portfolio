@@ -111,15 +111,21 @@ Conducted an environmental health analysis for the Florida Department of Health,
 
 | Category | Technologies |
 |---|---|
-| **Programming** | R, Python, SQL, SAS |
-| **Data Science & ML** | Statistical Modeling, Machine Learning, Time Series Forecasting, Feature Engineering |
-| **Reproducible Analytics** | Shiny, Quarto, R Markdown, LaTeX |
-| **Databases** | PostgreSQL, SQL Server, DuckDB |
-| **Cloud & Deployment** | AWS (EC2, RDS), Docker, GitHub Actions |
-| **Automation** | Bash/Shell scripting, Task Scheduling, API Integration |
-| **Visualization & BI** | Power BI, Shiny |
+| **Programming & Statistical Tools** | R, Python, SQL, SAS |
+| **Cloud & Data Platforms** | AWS, Snowflake, PostgreSQL, SQL Server, DuckDB |
+| **Machine Learning & AI** | Statistical Modeling, Machine Learning, Generative AI, Time Series Forecasting, Feature Engineering |
+| **Data Engineering & Automation** | ETL Pipelines, API Integration, Task Scheduling, Bash/Shell Scripting |
+| **Visualization & Reporting** | Shiny, Power BI, Quarto, R Markdown |
+| **DevOps & Version Control** | Git, GitHub, GitHub Actions, Docker |
 | **Research Systems** | REDCap, Qualtrics |
 | **Languages** | English, Spanish |
+
+---
+
+## Certifications
+
+- [Data Engineering Professional Certificate — Snowflake](https://www.linkedin.com/learning/certificates/c6e9ff4166e88b0c9ff1c077a6dcb7097631436cf8cbc5cb51970d848af01095?u=2238314)
+- [Generative AI Professional Certificate — Snowflake](https://www.linkedin.com/learning/certificates/48e5c3868f5709f85e8c8d48a7bc2a1acdee20702513e39b2012c4067be58858?u=2238314)
 
 ---
 

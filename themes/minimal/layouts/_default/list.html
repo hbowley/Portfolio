@@ -9,7 +9,7 @@
     <div class="project-card compact-card">
         {{ if .Params.image }}
         <div class="project-image compact-image">
-            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy" />
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy" />
         </div>
         {{ end }}
         <div class="project-body compact-body">
@@ -18,7 +18,7 @@
             <div class="project-actions-row">
               <a href="{{ .RelPermalink }}" class="project-link">View Project</a>
               {{ if .Params.link }}
-              <a href="{{ .Params.link }}" class="project-link" target="_blank">{{ if (strings.HasSuffix .Params.link ".pdf") }}View Poster{{ else }}View on GitHub{{ end }}</a>
+              <a href="{{ .Params.link | relURL }}" class="project-link" target="_blank">{{ if (strings.HasSuffix .Params.link ".pdf") }}View Poster{{ else }}View on GitHub{{ end }}</a>
               {{ end }}
             </div>
         </div>
