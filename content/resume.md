@@ -24,10 +24,10 @@ Open to **manager, lead, and director** level roles in remote or hybrid major me
 - Lead the Institutional Research and Data Analytics team in delivering institution-wide analytics and reporting that support strategic planning, executive decision-making, accreditation, and state and federal compliance
 - Managed and mentored a team of data professionals, strengthening technical capacity in statistical modeling, machine learning, SQL, R, Python, data visualization (Power BI, Shiny), and reproducible research workflows (Quarto)
 - Led development of machine learning models to predict course success outcomes and student retention, enabling earlier identification of at-risk students and informing targeted academic interventions
-- Designed and implemented agentic AI systems to automate and triage Kaseya ticket requests, streamlining IR data requests and reducing manual intake and turnaround time
+- Designed and prototyped agentic AI systems to automate and triage Kaseya ticket requests, streamlining IR data requests and reducing manual intake and turnaround time
 - Served as Chair of the Institutional Review Board (IRB) and Co-Chair of the CASSC Research and Testing Committee
 - Advised executive leadership on enterprise AI and cloud solutions to integrate siloed data systems and expand analytic capacity collegewide
-- Technical lead for external partnerships (Google for Education, DataKind, ReUp, Hanover Research) — owning data architecture, analytical methodology, and ML/AI deliverables
+- Technical lead for multiple external partnerships (DataKind, ReUp, Hanover Research) — owning data architecture, analytical methodology, and ML/AI deliverables while translating institutional needs into production-ready solutions
 
 ### Principal Data Scientist
 **Portable Networks** | Miami, FL | August 2023 – Present
@@ -68,6 +68,11 @@ Open to **manager, lead, and director** level roles in remote or hybrid major me
 - Supported behavioral data collection for spatial sequence learning and parietal cortex research
 - Developed technical documentation and visual materials for research communication and grant submissions
 
+### Level 1 Technician
+**Portable Networks** | Miami, FL | May 2016 – August 2017
+
+- Performed scheduled quarterly maintenance on systems and servers across multiple client accounts, ensuring operational reliability
+
 ---
 
 ## Education
@@ -85,6 +90,11 @@ Federal Work Study Project: Parietal contributions to context-dependent spatial 
 ---
 
 ## Recent Projects
+
+### GAD-7 and PHQ-9 Exploratory Analysis
+**Miami Rescue Mission Clinic** | Miami, FL | June – September 2025
+
+Conducted exploratory and inferential statistical analysis in R on mental health screening data (GAD-7, PHQ-9) for a free clinic serving Miami's homeless population. Applied correlation analysis, non-parametric hypothesis testing, and LOESS regression to assess relationships between anxiety, depression, and demographic/clinical factors, and delivered data visualizations and modeling recommendations.
 
 ### Real-Time Disaster Response Analytics Platform
 **Catalyst Miami / CEFA-Clean Energy for All** | Miami, FL | October 2024
