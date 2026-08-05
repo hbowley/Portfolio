@@ -126,6 +126,8 @@ Conducted an environmental health analysis for the Florida Department of Health,
 
 - [Data Engineering Professional Certificate — Snowflake](https://www.linkedin.com/learning/certificates/c6e9ff4166e88b0c9ff1c077a6dcb7097631436cf8cbc5cb51970d848af01095?u=2238314)
 - [Generative AI Professional Certificate — Snowflake](https://www.linkedin.com/learning/certificates/48e5c3868f5709f85e8c8d48a7bc2a1acdee20702513e39b2012c4067be58858?u=2238314)
+- [CITI IRB Member Training](https://www.citiprogram.org/verify/?wf86d194a-feba-4510-8a17-54ce7ce08b9c-59922515)
+- [CITI IRB Chair Training](https://www.citiprogram.org/verify/?w5bd92d51-1f3b-4ffe-aa5a-e7db95b01243-59922516)
 
 ---
 
