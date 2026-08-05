@@ -3,7 +3,7 @@ title: "Real-Time Disaster Response Analytics"
 date: 2024-10-07
 description: "Automated pipeline tracking utility outages during Hurricane Milton"
 link: "https://github.com/hbowley/outages"
-image: "/images/projects/disaster-response.svg"
+image: "images/projects/disaster-response.svg"
 tags: ["Python", "R", "Selenium", "Real-Time Data"]
 ---
 

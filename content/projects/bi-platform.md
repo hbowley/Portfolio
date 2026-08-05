@@ -2,7 +2,7 @@
 title: "Workforce BI Platform"
 date: 2024-03-01
 description: "Shiny BI app with Salesforce integration for project and workforce forecasting"
-image: "/images/projects/bi-platform.svg"
+image: "images/projects/bi-platform.svg"
 tags: ["R", "Shiny", "Salesforce", "Business Intelligence"]
 ---
 

@@ -3,7 +3,7 @@ title: "Eyeblink Conditioning Analysis"
 date: 2023-06-12
 description: "Statistical modeling of learning and memory processes in children"
 link: "https://github.com/hbowley/EBC"
-image: "/images/projects/ebc-analysis.svg"
+image: "images/projects/ebc-analysis.svg"
 tags: ["R", "Statistics", "Neuroscience"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Environmental Health Scan"
 date: 2023-11-01
 description: "Lung cancer incidence analysis for the Florida Department of Health"
-image: "/images/projects/environmental-health.svg"
+image: "images/projects/environmental-health.svg"
 tags: ["R", "Public Health", "Data Analysis"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Store Performance Tracking System"
 date: 2024-06-01
 description: "Client-facing Shiny app on AWS for real-time sales tracking"
-image: "/images/projects/store-performance.svg"
+image: "images/projects/store-performance.svg"
 tags: ["R", "Shiny", "AWS", "PostgreSQL", "Consulting"]
 ---
 
