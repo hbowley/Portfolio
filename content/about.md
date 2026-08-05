@@ -38,4 +38,4 @@ I play guitar and develop 35mm film. Building things with code and building thin
 
 If you are hiring for a manager, senior, lead, or director level data role, I would love to connect. I am open to remote and hybrid opportunities in major metro areas.
 
-[Get in touch](/contact/)
+[Get in touch](../contact/)

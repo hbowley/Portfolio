@@ -2,7 +2,7 @@
 <section class="hero">
     <div class="hero-content">
         <div class="hero-photo">
-            <img src="/images/hannah.jpg" alt="Hannah Bowley" />
+            <img src="{{ "images/hannah.jpg" | relURL }}" alt="Hannah Bowley" />
         </div>
         <h1>Hannah Bowley</h1>
         <p class="subtitle">Data Science Leader | Biostatistician | Applied ML/AI Engineer</p>
@@ -12,9 +12,9 @@
             director level opportunities in major metro markets.
         </p>
         <div class="cta-buttons">
-            <a href="/projects/" class="btn btn-primary">View Projects</a>
-            <a href="/resume/" class="btn btn-secondary">View Resume</a>
-            <a href="/contact/" class="btn btn-secondary">Contact</a>
+            <a href="{{ "projects/" | relURL }}" class="btn btn-primary">View Projects</a>
+            <a href="{{ "resume/" | relURL }}" class="btn btn-secondary">View Resume</a>
+            <a href="{{ "contact/" | relURL }}" class="btn btn-secondary">Contact</a>
         </div>
     </div>
 </section>

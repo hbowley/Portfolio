@@ -123,4 +123,4 @@ Conducted an environmental health analysis for the Florida Department of Health,
 
 ---
 
-[Download Full Resume (PDF)](/resume.pdf)
+[Download Full Resume (PDF)](../resume.pdf)

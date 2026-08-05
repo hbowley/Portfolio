@@ -9,32 +9,32 @@ author = "Hannah Bowley"
 
 [[menu.main]]
 name = "Home"
-url = "/"
+pageRef = "/"
 weight = 1
 
 [[menu.main]]
 name = "About"
-url = "/about/"
+pageRef = "/about"
 weight = 2
 
 [[menu.main]]
 name = "Projects"
-url = "/projects/"
+pageRef = "/projects"
 weight = 3
 
 [[menu.main]]
 name = "Publications"
-url = "/publications/"
+pageRef = "/publications"
 weight = 4
 
 [[menu.main]]
 name = "Resume"
-url = "/resume/"
+pageRef = "/resume"
 weight = 5
 
 [[menu.main]]
 name = "Contact"
-url = "/contact/"
+pageRef = "/contact"
 weight = 6
 
 [outputs]
