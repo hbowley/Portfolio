@@ -4,9 +4,11 @@ title: "Publications & Presentations"
 
 ## Peer-Reviewed Publications
 
-1. Mattox, N., **Bowley, H.**, Vieites, V., Wu, Y., Ralph, Y., Lioi, P., Rodriguez, V., Saladrigas Olazabal, K., Rengel, M., Hayes, T., Dick, A.S., Mattfeld, A., & Pruden, S.M. (2026). The relation between spatial language comprehension and mental transformation during early childhood. *Cognitive Development, 77*, 101663. [doi:10.1016/j.cogdev.2025.101663](https://doi.org/10.1016/j.cogdev.2025.101663)
+1. Hall, L.V., Rengel, M., Overton, D., Alvarez-Vargas, D., Abad, C., **Bowley, H.**, & Pruden, S.M. (2026). Parent mental rotation ability predicts less negation talk with children during 3D construction but not 2D drawing tasks. *Cognitive Development, 79*, 101750. [doi:10.1016/j.cogdev.2026.101750](https://doi.org/10.1016/j.cogdev.2026.101750)
 
-2. Hall, L.V., Rengel, M., **Bowley, H.**, Alvarez-Vargas, D., Abad, C., Overton, D., & Pruden, S.M. (2023). "You did a great job building that!" Links between parent–child prosocial talk and spatial language. *Developmental Psychology, 59*(9), 1676. [doi:10.1037/dev0001580](https://doi.org/10.1037/dev0001580) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37428740/)
+2. Mattox, N., **Bowley, H.**, Vieites, V., Wu, Y., Ralph, Y., Lioi, P., Rodriguez, V., Saladrigas Olazabal, K., Rengel, M., Hayes, T., Dick, A.S., Mattfeld, A., & Pruden, S.M. (2026). The relation between spatial language comprehension and mental transformation during early childhood. *Cognitive Development, 77*, 101663. [doi:10.1016/j.cogdev.2025.101663](https://doi.org/10.1016/j.cogdev.2025.101663)
+
+3. Hall, L.V., Rengel, M., **Bowley, H.**, Alvarez-Vargas, D., Abad, C., Overton, D., & Pruden, S.M. (2023). "You did a great job building that!" Links between parent–child prosocial talk and spatial language. *Developmental Psychology, 59*(9), 1676. [doi:10.1037/dev0001580](https://doi.org/10.1037/dev0001580) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37428740/)
 
 ---
 
